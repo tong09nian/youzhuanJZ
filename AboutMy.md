@@ -1,4 +1,4 @@
-                                ![master](https://raw.githubusercontent.com/tong09nian/youzhuanJZ/master/ZoshpIcon.png)
+![master](https://raw.githubusercontent.com/tong09nian/youzhuanJZ/master/ZoshpIcon.png)
 
 
 兼职：区别于全职，是指职工在本职工作之外兼任其他工作职务。兼职者除了可以领取本职工作的工资外，还可以按标准领取所兼任工作职务的其他工资，指非主要工作外的工作，如果只做一种工作则叫专职。
